@@ -29,7 +29,9 @@
 
 **Практикум** по работе программой [здесь](https://clck.ru/33eFKE)
 
-Старая версия Erwin Process Modeler [здесь]().
+Несколько рекомендаций по формированию DFD-модели [здесь](https://clck.ru/33eFLx)
+
+Старая версия Erwin Process Modeler [здесь](https://clck.ru/33eFDA).
 
 Пример и объяснение того, как сделать функциональную модель, можно посмотреть [здесь](https://www.youtube.com/watch?v=flGjJMsjnG0).
 
